@@ -23,7 +23,8 @@
 ---
 <div align='center'>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungil9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungil9&layout=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungil9&show_icons=true&theme=radical)
 
 </div>  
