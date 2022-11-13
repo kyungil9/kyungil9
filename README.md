@@ -1,4 +1,4 @@
-### 🙂 Nice way to meet me
+### 🙂 Have a nice Day
 
 <p>
   👋&nbsp;hello! I'm Kong Gyeong-il, currently in the 3rd year of Dong-Eui University.<br/>
