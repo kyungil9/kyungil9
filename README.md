@@ -1,8 +1,7 @@
 ### 🙂 Have a nice Day
 
 <p>
-  👋&nbsp;hello! I'm Kong Gyeong-il, currently in the 3rd year of Dong-Eui University.<br/>
-  I am a developer who dreams of becoming a full-stack developer.<br/>
+  👋&nbsp;hello! I'm Kong Gyeong-il,I am a developer who dreams of becoming a full-stack developer.<br/>
   I am currently studying Android development, and I am also learning the backend for interoperability between applications.<br/><br/>
 </p>
 
